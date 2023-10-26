@@ -1,4 +1,4 @@
-def registry = 'https://localhost:8082/'
+def registry = 'http://localhost:8082/'
 def imageName = 'localhost:8082/valaxy-docker-local/ttrend'
 def version   = '2.1.4'
 pipeline {
