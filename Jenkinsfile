@@ -1,5 +1,5 @@
-def registry = 'http://abc.com/'
-def imageName = 'abc.com/valaxy-docker-local/ttrend'
+def registry = 'http://18.208.159.201:8082/'
+def imageName = '18.208.159.201:8082/valaxy-docker-local/ttrend'
 def version   = '2.1.4'
 pipeline {
     agent {
